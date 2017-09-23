@@ -1,4 +1,6 @@
 # MMDW
+The coding part is done by Weicheng Zhang.
+
 Max-margin DeepWalk
 
 Code of IJCAI2016: "Max-Margin DeepWalk: Discriminative Learning of Network Representation"
